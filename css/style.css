@@ -1,0 +1,406 @@
+@import url("https://fonts.googleapis.com/css2?family=Yantramanav:wght@400;700&display=swap");
+
+* {
+     box-sizing: border-box;
+     margin: 0;
+     padding: 0;
+}
+
+body {
+     font-family: "Yantramanav", sans-serif;
+}
+
+html {
+     scroll-behavior: smooth;
+}
+
+.navbar {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 1.4rem 7%;
+     background-color: rgb(251, 161, 183);
+     border: 1 solid #fff0f5;
+     top: 0;
+     left: 0;
+     right: 0;
+     position: sticky;
+}
+
+.navbar a {
+     text-decoration: none;
+}
+
+.navbar .navbar-logo {
+     color: white;
+     font-size: 2rem;
+     font-weight: 700;
+     transition: 0.3s;
+}
+
+.navbar .navbar-logo:hover {
+     color: #fe0000;
+}
+
+.navbar .navbar-nav a {
+     color: #fff0f5;
+     margin: 0 1rem;
+     font-size: 1.2rem;
+     transition: 0.3s;
+}
+
+.navbar .navbar-nav a:hover {
+     color: #ffd1da;
+}
+
+.hero {
+     height: 100%;
+     padding-top: 3rem;
+     text-align: center;
+}
+
+.hero img {
+     width: 100vh;
+}
+
+main {
+     padding: 20px;
+     display: flex;
+     gap: 1.5rem;
+}
+
+aside {
+     flex: 1;
+}
+
+.profile-group img {
+     width: 150px;
+}
+
+.profile-group section h3 {
+     text-align: center;
+}
+
+.profile-group section table th {
+     padding-right: 1rem;
+}
+
+.content {
+     display: flex;
+     flex: 5;
+     flex-flow: column nowrap;
+     gap: 1rem 2rem;
+}
+
+#profile .img-profile {
+     text-align: center;
+}
+
+#profile .img-profile .feature-img {
+     width: 100%;
+     max-width: 600px;
+     object-fit: cover;
+     object-position: center;
+}
+
+.card {
+     box-shadow: 0 0 9px 0 rgba(255, 204, 179);
+     border-radius: 5px;
+     padding: 30px;
+}
+
+#profile h2,
+#member h2,
+#trainee h2 {
+     font-size: 2rem;
+     text-align: center;
+}
+
+#member .row,
+#trainee .row {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+}
+
+.card-member {
+     margin: 0.8rem;
+     transition: 0.3s;
+}
+
+.card-member:hover {
+     box-shadow: 0 0 9px 0 rgb(241, 26, 123);
+}
+
+.card-member .img-member {
+     padding: 1rem 0;
+}
+
+.card-member .img-member img {
+     height: 15rem;
+     width: 15rem;
+}
+
+.card-member .content-member {
+     text-align: center;
+}
+
+footer {
+     background-color: rgb(241, 26, 123);
+     text-align: center;
+     padding: 3rem 0 3rem;
+}
+
+footer .socials a img {
+     width: 2rem;
+     height: 2rem;
+     margin-inline-start: 2rem;
+}
+
+footer .credit {
+     margin-top: 1rem;
+}
+
+footer .credit a {
+     color: black;
+     font-weight: 700;
+}
+
+.modal {
+     display: none;
+     position: fixed;
+     z-index: 999;
+     left: 0;
+     top: 0;
+     width: 100%;
+     height: 100%;
+     background-color: rgba(0, 0, 0, 0.8);
+}
+
+.modal .modal-container {
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -90%);
+     background-color: rgb(255, 221, 204);
+     color: black;
+     margin: 15% auto;
+     padding: 1.2rem;
+     border: 1px solid #666;
+     width: 60%;
+     height: fit-content;
+}
+
+.modal .modal-container > a {
+     position: absolute;
+     right: 2rem;
+     height: 1rem;
+     width: 1rem;
+}
+
+.modal .modal-container .modal-content {
+     display: flex;
+     flex-wrap: nowrap;
+     justify-content: center;
+}
+
+.modal .modal-container .modal-content img {
+     height: 30rem;
+     margin-right: 2rem;
+}
+
+.modal .member-content h3 {
+     font-size: 1.5rem;
+}
+
+.modal .member-content p {
+     font-size: 1.2rem;
+}
+
+.modal .member-content .member-data {
+     border-bottom: 1px solid #f29393;
+     padding-bottom: 0.6rem;
+}
+
+.modal .member-content .member-data h3 {
+     margin: 1rem 0;
+}
+
+.modal .modal-content .social-media img {
+     height: 2rem;
+}
+
+/* laptop */
+@media only screen and (max-width: 1200px) {
+     body {
+          font-size: 80%;
+     }
+
+     main {
+          flex-flow: column nowrap;
+     }
+
+     main aside {
+          align-self: center;
+     }
+
+     .card {
+          padding: 20px;
+          width: fit-content;
+          justify-content: center;
+     }
+
+     .card header h2 {
+          text-align: center;
+     }
+
+     .card-member .img-member img {
+          width: 10rem;
+          height: 10rem;
+     }
+
+     .modal .modal-container {
+          transform: translate(-50%, -70%);
+     }
+
+     .modal .foto-member {
+          margin-top: 4rem;
+     }
+
+     .modal .member-content p {
+          font-size: 1rem;
+     }
+
+     .modal .modal-container .modal-content img {
+          height: 25rem;
+     }
+
+     .modal .member-content .member-data h3 {
+          margin: 1rem 0;
+          font-size: 1.2rem;
+     }
+
+     .modal .modal-content .social-media img {
+          height: 1.7rem;
+     }
+
+     .modal .modal-content .social-media img:hover {
+          color: #fe0000;
+     }
+}
+
+/* tablet */
+@media only screen and (max-width: 992px) {
+     body {
+          font-size: 60%;
+     }
+
+     .card-member .img-member img {
+          width: 7rem;
+          height: 7rem;
+     }
+
+     .profile-group img {
+          width: 120px;
+     }
+
+     .modal .foto-member {
+          margin-top: 3rem;
+     }
+
+     .modal .member-content .member-data h3 {
+          margin: 1rem 0;
+          font-size: 1rem;
+     }
+
+     .modal .member-content p {
+          font-size: 0.8rem;
+     }
+
+     .modal .modal-container .modal-content img {
+          height: 20rem;
+     }
+
+     .modal .modal-content .social-media img {
+          height: 1.5rem;
+     }
+}
+
+/* tablet */
+@media only screen and (max-width: 768px) {
+     body {
+          font-size: 50%;
+     }
+
+     .hero img {
+          width: 70vh;
+     }
+
+     .card-member .img-member img {
+          width: 5rem;
+          height: 5rem;
+     }
+
+     .profile-group img {
+          width: 90px;
+     }
+
+     .modal .member-content .member-data h3 {
+          margin: 1rem 0;
+          font-size: 0.8rem;
+     }
+
+     .modal .member-content p {
+          font-size: 0.6rem;
+     }
+
+     .modal .modal-container .modal-content img {
+          height: 15rem;
+     }
+
+     .modal .modal-content .social-media img {
+          height: 1.2rem;
+     }
+}
+
+/* smartphone */
+@media only screen and (max-width: 576px) {
+     body {
+          font-size: 40%;
+     }
+
+     .navbar {
+          display: block;
+          text-align: center;
+     }
+
+     .navbar .navbar-logo {
+          margin: 0 auto;
+     }
+
+     .profile-group img {
+          width: 70px;
+     }
+
+     .card-member .img-member img {
+          width: 3rem;
+          height: 3rem;
+     }
+
+     .modal .member-content .member-data h3 {
+          margin: 1rem 0;
+          font-size: 0.6rem;
+     }
+
+     .modal .member-content p {
+          font-size: 0.4rem;
+     }
+
+     .modal .modal-container .modal-content img {
+          height: 10rem;
+     }
+
+     .modal .modal-content .social-media img {
+          height: 1rem;
+     }
+}

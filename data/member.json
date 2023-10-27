@@ -1,0 +1,619 @@
+{
+     "member": [
+          {
+               "id": 1,
+               "full_name": "Adzana Shaliha",
+               "nama_panggilan": "Ashel",
+               "tanggal_lahir": "8 Januari 2005",
+               "member": "member",
+               "jiko": "Aku Datang Bagaikan Embun Pagi yang Akan Menyejukkan Suasana Hati",
+               "img_thm": "img/Member_Ashel_thumnail.jpeg",
+               "img": "img/full-size/Member_Ashel.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/S_AshelJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@asheljkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.ashel/"
+               }
+          },
+          {
+               "id": 2,
+               "full_name": "Amanda Sukma",
+               "nama_panggilan": "Amanda",
+               "tanggal_lahir": "17 Desember 2004",
+               "member": "member",
+               "jiko": "Melaju Cepat Bagai Motor 1000cc! Aku si Gadis Penykua Motor",
+               "img_thm": "img/Member_Amanda_thumnail.jpeg",
+               "img": "img/full-size/Member_Amanda.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/PS_AmandaJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@jkt48.amanda.s/",
+                    "instagram": "https://www.instagram.com/jkt48.amanda.s/"
+               }
+          },
+          {
+               "id": 3,
+               "full_name": "Angelina Christy",
+               "nama_panggilan": "Christy",
+               "tanggal_lahir": "5 Desember 2005",
+               "member": "member",
+               "jiko": "Peduli dan Berbaik hati Siapakah dia? Christy",
+               "img_thm": "img/Member_Christy_thumnail.jpeg",
+               "img": "img/full-size/Member_Christy.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/A_ChristyJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@christyjkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.christy/"
+               }
+          },
+          {
+               "id": 4,
+               "full_name": "Aurellia",
+               "nama_panggilan": "Lia",
+               "tanggal_lahir": "29 Oktober 2002",
+               "member": "member",
+               "jiko": "Si Social Butterfly yang Energik dan Periang",
+               "img_thm": "img/Member_Lia_thumnail.jpeg",
+               "img": "img/full-size/Member_Lia.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/C_OnielJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@jkt48.aurellia_/",
+                    "instagram": "https://www.instagram.com/jkt48.aurellia_/"
+               }
+          },
+          {
+               "id": 5,
+               "full_name": "Azizi Asadel",
+               "nama_panggilan": "Zee",
+               "tanggal_lahir": "16 Mei 2004",
+               "member": "member",
+               "jiko": "Si Tomboy yang Semangatnya Meletup - Letup",
+               "img_thm": "img/Member_Zee_thumnail.jpeg",
+               "img": "img/full-size/Member_Zee.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/A_ZeeJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@zeejkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.zee/"
+               }
+          },
+          {
+               "id": 6,
+               "full_name": "Callista Alifia",
+               "nama_panggilan": "Callie",
+               "tanggal_lahir": "8 Agustus 2005",
+               "member": "member",
+               "jiko": "Si Beruang Madu, Penyuka Madu",
+               "img_thm": "img/Member_Callie_thumnail.jpeg",
+               "img": "img/full-size/Member_Callie.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/AW_CallieJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@jkt48.callie.a/",
+                    "instagram": "https://www.instagram.com/jkt48.callie.a/"
+               }
+          },
+          {
+               "id": 7,
+               "full_name": "Cornelia Vanisa",
+               "nama_panggilan": "Oniel",
+               "tanggal_lahir": "26 Juli 2002",
+               "member": "member",
+               "jiko": "Seperti Teka - teki yang Akan Membuat Kalian Penasaran Denganku",
+               "img_thm": "img/Member_Oniel_thumnail.jpeg",
+               "img": "img/full-size/Member_Oniel.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/C_OnielJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@onieljkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.oniel/"
+               }
+          },
+          {
+               "id": 8,
+               "full_name": "Febriola Sinambela",
+               "nama_panggilan": "Olla",
+               "tanggal_lahir": "26 Februari 2005",
+               "member": "member",
+               "jiko": "Dengan Keajaibanku, Aku akan Membuat Kalian Penasaran Denganku",
+               "img_thm": "img/Member_Olla_thumnail.jpeg",
+               "img": "img/full-size/Member_Olla.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/F_OllaJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@ollajkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.olla/"
+               }
+          },
+          {
+               "id": 9,
+               "full_name": "Feni Fitriyanti",
+               "nama_panggilan": "Feni",
+               "tanggal_lahir": "16 Januari 1999",
+               "member": "member",
+               "jiko": "Matahari yang Indah, yang Akan memberikan Kehangatan di Setiap Harinya",
+               "img_thm": "img/Member_Feni_thumnail.jpeg",
+               "img": "img/full-size/Member_Feni.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/F_FeniJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@fenijkt48/",
+                    "instagram": "https://www.instagram.com/jkt48feni/"
+               }
+          },
+          {
+               "id": 10,
+               "full_name": "Fiony Alveria Tantri",
+               "nama_panggilan": "Fiony",
+               "tanggal_lahir": "4 Februari 2002",
+               "member": "member",
+               "jiko": "Seperto Simfioni yang Menenangkan Hati",
+               "img_thm": "img/Member_Fiony_thumnail.jpeg",
+               "img": "img/full-size/Member_Fiony.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/A_FionyJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@fionyjkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.fiony/"
+               }
+          },
+          {
+               "id": 11,
+               "full_name": "Flora Shafiq",
+               "nama_panggilan": "Flora",
+               "tanggal_lahir": "4 April 2005",
+               "member": "member",
+               "jiko": "Siapa yang Ikut Aku?, Ikut ke dunia Flora Simsalabin Aku Membuat Kamu Berbunga - bunga",
+               "img_thm": "img/Member_Flora_thumnail.jpeg",
+               "img": "img/full-size/Member_Flora.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/S_FloraJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@florajkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.flora/"
+               }
+          },
+          {
+               "id": 12,
+               "full_name": "Freya Jayawardana",
+               "nama_panggilan": "Freya",
+               "tanggal_lahir": "13 Februari 2006",
+               "member": "member",
+               "jiko": "Gadis Koleris yang Suka Berimajinasi, Terangi Harimu Dengan Senyuman Karamelku",
+               "img_thm": "img/Member_Freya_thumnail.jpeg",
+               "img": "img/full-size/Member_Freya.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/Freya_JKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@freyajkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.freya/"
+               }
+          },
+          {
+               "id": 13,
+               "full_name": "Gabriela Abigail",
+               "nama_panggilan": "Ella",
+               "tanggal_lahir": "7 Agustus 2006",
+               "member": "member",
+               "jiko": "Ohayo! Konnichiwa! Oyasumi! Aku ingin ada di setiap harimu.",
+               "img_thm": "img/Member_Ella_thumnail.jpeg",
+               "img": "img/full-size/Member_Ella.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/AM_EllaJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@jkt48.ella.a/",
+                    "instagram": "https://www.instagram.com/jkt48.ella.a/"
+               }
+          },
+          {
+               "id": 14,
+               "full_name": "Gita Sekar Andarini",
+               "nama_panggilan": "Gita",
+               "tanggal_lahir": "30 Juni 2001",
+               "member": "member",
+               "jiko": "Diam Bukan Berarti Tidak Memperhatikanmu",
+               "img_thm": "img/Member_Gita_thumnail.jpeg",
+               "img": "img/full-size/Member_Gita.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/A_GitaJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@gitajkt48/",
+                    "instagram": "https://www.instagram.com/jkt48gita/"
+               }
+          },
+          {
+               "id": 15,
+               "full_name": "Helisma Putri",
+               "nama_panggilan": "Eli",
+               "tanggal_lahir": "15 Juni 2000",
+               "member": "member",
+               "jiko": "Dengan Energi Kegembiraanku Aku Akan Menghangatkan Suasana",
+               "img_thm": "img/Member_Eli_thumnail.jpeg",
+               "img": "img/full-size/Member_Eli.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/H_EliJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@elijkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.eli/"
+               }
+          },
+          {
+               "id": 16,
+               "full_name": "Indah Cahya Nabila",
+               "nama_panggilan": "Indah",
+               "tanggal_lahir": "20 Maret 2001",
+               "member": "member",
+               "jiko": "Tak Banyak Bicara Bercerita Lewat Tulisan",
+               "img_thm": "img/Member_Indah_thumnail.jpeg",
+               "img": "img/full-size/Member_Indah.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/C_IndahJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@indahjkt48/",
+                    "instagram": "https://www.instagram.com/jkt48indah_/"
+               }
+          },
+          {
+               "id": 17,
+               "full_name": "Indira Seruni",
+               "nama_panggilan": "Indira",
+               "tanggal_lahir": "26 April 2004",
+               "member": "member",
+               "jiko": "Watashi No Kokoro Unlock, akan Menemani Hari - harimu Dengan Sepenuh Hati",
+               "img_thm": "img/Member_Indira_thumnail.jpeg",
+               "img": "img/full-size/Member_Indira.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/SP_IndiraJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@jkt48.indira.s/",
+                    "instagram": "https://www.instagram.com/jkt48.indira.s/"
+               }
+          },
+          {
+               "id": 18,
+               "full_name": "Jesslyn Elly",
+               "nama_panggilan": "Lyn",
+               "tanggal_lahir": "13 September 2001",
+               "member": "member",
+               "jiko": "Seperti Ombak yang Tenang, Tiba - tiba Aku Akan Menyapumu Dengan Banyak Cinta",
+               "img_thm": "img/Member_Lyn_thumnail.jpeg",
+               "img": "img/full-size/Member_Lyn.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/SE_LynJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@jkt48.lyn.s/",
+                    "instagram": "http://instagram.com/jkt48.lyn.s"
+               }
+          },
+          {
+               "id": 19,
+               "full_name": "Kathrina Irene",
+               "nama_panggilan": "Kathrina",
+               "tanggal_lahir": "26 Juli 2006",
+               "member": "member",
+               "jiko": "Never Miss a Chance to be a Star",
+               "img_thm": "img/Member_Katrina_thumnail.jpeg",
+               "img": "img/full-size/Member_Katrina.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/I_KathrinaJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@kathrinjkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.kathrina/"
+               }
+          },
+          {
+               "id": 20,
+               "full_name": "Lulu Salsabila",
+               "nama_panggilan": "Lulu",
+               "tanggal_lahir": "23 Oktober 2002",
+               "member": "member",
+               "jiko": "Terang Seperti Bulan, Bersinar Seperti Bintang",
+               "img_thm": "img/Member_Lulu_thumnail.jpeg",
+               "img": "img/full-size/Member_Lulu.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/A_LuluJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@lulu_jkt48",
+                    "instagram": "https://www.instagram.com/jkt48.lulu/"
+               }
+          },
+          {
+               "id": 21,
+               "full_name": "Mutiara Azzahra",
+               "nama_panggilan": "Muthe",
+               "tanggal_lahir": "12 Juli 2004",
+               "member": "member",
+               "jiko": "Dengan Kelincahanku, Aku Akan Menari Setiap Hari",
+               "img_thm": "img/Member_Muthe_thumnail.jpeg",
+               "img": "img/full-size/Member_Muthe.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/A_MutheJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@muthejkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.muthe_/"
+               }
+          },
+          {
+               "id": 22,
+               "full_name": "Raisha Syifa",
+               "nama_panggilan": "Raisha",
+               "tanggal_lahir": "11 November 2007",
+               "member": "member",
+               "jiko": "Kalau Sakura itu Kembang, Aky itu Kebanggaanmu",
+               "img_thm": "img/Member_Raisha_thumnail.jpeg",
+               "img": "img/full-size/Member_Raisha.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/SW_RaishaJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@jkt48.raisha.s/",
+                    "instagram": "https://www.instagram.com/jkt48.raisha.s/"
+               }
+          },
+          {
+               "id": 23,
+               "full_name": "Reva Fidela",
+               "nama_panggilan": "Adel",
+               "tanggal_lahir": "14 Juli 2006",
+               "member": "member",
+               "jiko": "Bagai Kucing yang Kalem, Tapi Selalu Memikat Hati Kamu",
+               "img_thm": "img/Member_Adel_thumnail.jpeg",
+               "img": "img/full-size/Member_Adel.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/R_AdelJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@adeljkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.adel/"
+               }
+          },
+          {
+               "id": 24,
+               "full_name": "Shani Indira Natio",
+               "nama_panggilan": "Shani",
+               "tanggal_lahir": "5 Oktober 1998",
+               "member": "member",
+               "jiko": "Semanis Coklat, Selembut Sutra.",
+               "img_thm": "img/Member_Shani_thumnail.jpeg",
+               "img": "img/full-size/Member_Shani.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/N_ShaniJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@shanijkt48/",
+                    "instagram": "https://www.instagram.com/jkt48shani/"
+               }
+          },
+          {
+               "id": 25,
+               "full_name": "Shania Gracia",
+               "nama_panggilan": "Gracia",
+               "tanggal_lahir": "31 Agustus 1999",
+               "member": "member",
+               "jiko": "Senyumku Akan Terekam Jelas Dalam Ingatanmu Seperti Foto Dengan Sejuta Warna",
+               "img_thm": "img/Member_Gracia_thumnail.jpeg",
+               "img": "img/full-size/Member_Gracia.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/S_GraciaJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@graciajkt48/",
+                    "instagram": "https://www.instagram.com/jkt48gracia/"
+               }
+          },
+          {
+               "id": 26,
+               "full_name": "Yessica Tamara",
+               "nama_panggilan": "Chika",
+               "tanggal_lahir": "24 September 2002",
+               "member": "member",
+               "jiko": "Memberikan Kebahagiaan Lewat Gummy Smile-ku",
+               "img_thm": "img/Member_Chika_thumnail.jpeg",
+               "img": "img/full-size/Member_Chika.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/Y_ChikaJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@graciajkt48/",
+                    "instagram": "https://www.tiktok.com/@chikajkt48/"
+               }
+          },
+          {
+               "id": 27,
+               "full_name": "Jessica Chandra",
+               "nama_panggilan": "Jessi",
+               "tanggal_lahir": "23 September 2005",
+               "member": "member",
+               "jiko": "Suka Menari dan akan Berusaha Menjadi Seumber Energimu",
+               "img_thm": "img/Member_Jessi_thumnail.jpeg",
+               "img": "img/full-size/Member_Jessi.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/C_JessiJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@jessijkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.jessi/"
+               }
+          },
+          {
+               "id": 28,
+               "full_name": "Marsha Lenathea",
+               "nama_panggilan": "Marsha",
+               "tanggal_lahir": "9 Januari 2006",
+               "member": "member",
+               "jiko": "Seperti Pizza yang Selalu Dinanti-nantikan Semua Orang, Selalu Nantikan Aku Ya",
+               "img_thm": "img/Member_Marsha_thumnail.jpeg",
+               "img": "img/full-size/Member_Marsha.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/L_MarshaJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@marsha.jkt48",
+                    "instagram": "https://www.instagram.com/jkt48.marsha/"
+               }
+          },
+          {
+               "id": 29,
+               "full_name": "Alya Amanda",
+               "nama_panggilan": "Alya",
+               "tanggal_lahir": "26 Agustus 2006",
+               "member": "trainee",
+               "jiko": "Jika hatimu sedang menangis aku akan datang sebagai pelangi",
+               "img_thm": "img/Trainee_Alya_thumnail.jpeg",
+               "img": "img/full-size/Trainee_Alya.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/AA_AlyaJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@alyajkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.alya_/"
+               }
+          },
+          {
+               "id": 30,
+               "full_name": "Anindya Ramadhani",
+               "nama_panggilan": "Anindya",
+               "tanggal_lahir": "18 Oktober 2005",
+               "member": "trainee",
+               "jiko": "Si mungil hadir semanis mangga",
+               "img_thm": "img/Trainee_Anindya_thumnail.jpeg",
+               "img": "img/full-size/Trainee_Anindya.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/AR_AnindyaJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@anindyajkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.anindya_/"
+               }
+          },
+          {
+               "id": 31,
+               "full_name": "Cathleen Nixie",
+               "nama_panggilan": "Cathy",
+               "tanggal_lahir": "28 Mei 2009",
+               "member": "trainee",
+               "jiko": "Si peri cantik jelita itulah aku",
+               "img_thm": "img/Trainee_Cathy_thumnail.jpeg",
+               "img": "img/full-size/Trainee_Cathy.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/N_CathyJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@cathyjkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.cathy/"
+               }
+          },
+          {
+               "id": 32,
+               "full_name": "Celline Thefani",
+               "nama_panggilan": "Elin",
+               "tanggal_lahir": "9 April 2007",
+               "member": "trainee",
+               "jiko": "Semanis permen kapas dan seindah bunga lavender.",
+               "img_thm": "img/Trainee_Elin_thumnail.jpeg",
+               "img": "img/full-size/Trainee_Elin.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/Elin_JKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@elinjkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.elin_/"
+               }
+          },
+          {
+               "id": 33,
+               "full_name": "Chelsea Davina",
+               "nama_panggilan": "Chelsea",
+               "tanggal_lahir": "23 Desember 2009",
+               "member": "trainee",
+               "jiko": "As bright as a shooting star in the starry night sky!",
+               "img_thm": "img/Trainee_Chealse_thumnail.jpeg",
+               "img": "img/full-size/Trainee_Chealse.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/DC_ChelseaJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@_chelseajkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.chelsea.d/"
+               }
+          },
+          {
+               "id": 34,
+               "full_name": "Cynthia Yaputera",
+               "nama_panggilan": "Cynthia",
+               "tanggal_lahir": "22 November 2003",
+               "member": "trainee",
+               "jiko": "Semangatku terus menerus meluap POP POP!",
+               "img_thm": "img/Trainee_Cynthia_thumnail.jpeg",
+               "img": "img/full-size/Trainee_Cynthia.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/Y_CynthiaJKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@cynthiajkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.cynthia/"
+               }
+          },
+          {
+               "id": 35,
+               "full_name": "Dena Natalia",
+               "nama_panggilan": "Danella",
+               "tanggal_lahir": "16 Desember 2005",
+               "member": "trainee",
+               "jiko": "Si penari yang akan menarikmu ke duniaku!",
+               "img_thm": "img/Trainee_Danella_thumnail.jpeg",
+               "img": "img/full-size/Trainee_Danella.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/Danella_JKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@danellajkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.danella/"
+               }
+          },
+          {
+               "id": 36,
+               "full_name": "Desy Natalia",
+               "nama_panggilan": "Daisy",
+               "tanggal_lahir": "16 Desember 2005",
+               "member": "trainee",
+               "jiko": "Seperti bunga daisy, aku akan memancarkan kesegaran dan kebahagiaan!",
+               "img_thm": "img/Trainee_Daisy_thumnail.jpeg",
+               "img": "img/full-size/Trainee_Daisy.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/Daisy_JKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@daisyjkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.daisy/"
+               }
+          },
+          {
+               "id": 37,
+               "full_name": "Gendis Mayrannisa",
+               "nama_panggilan": "Gendis",
+               "tanggal_lahir": "23 Juni 2010",
+               "member": "trainee",
+               "jiko": "Bonjour! Periang dan pencair suasana itulah aku.",
+               "img_thm": "img/Trainee_Gendis_thumnail.jpeg",
+               "img": "img/full-size/Trainee_Gendis.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/Gendis_JKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@gendisjkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.gendis/"
+               }
+          },
+          {
+               "id": 38,
+               "full_name": "Grace Octaviani",
+               "nama_panggilan": "Gracie",
+               "tanggal_lahir": "18 Oktober 2007",
+               "member": "trainee",
+               "jiko": "Manis seperti gulali, imut seperti kelinci!",
+               "img_thm": "img/Trainee_Gracie_thumnail.jpeg",
+               "img": "img/full-size/Trainee_Gracie.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/Gracie_JKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@graciejkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.gracie/"
+               }
+          },
+          {
+               "id": 39,
+               "full_name": "Greesella Adhalia",
+               "nama_panggilan": "Greesel",
+               "tanggal_lahir": "10 Januari 2006",
+               "member": "trainee",
+               "jiko": "Pandangan mataku akan menyinari hatimu bagaikan kunang-kunang di malam hari.",
+               "img_thm": "img/Trainee_Greesel_thumnail.jpeg",
+               "img": "img/full-size/Trainee_Greesel.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/Greesel_JKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@greeseljkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.greesel/"
+               }
+          },
+          {
+               "id": 40,
+               "full_name": "Jeane Victoria",
+               "nama_panggilan": "Jeane",
+               "tanggal_lahir": "5 Juni 2006",
+               "member": "trainee",
+               "jiko": "VICTORIA! Aku akan selalu memenangkan hatimu.",
+               "img_thm": "img/Trainee_Jeane_thumnail.jpeg",
+               "img": "img/full-size/Trainee_Jeane.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/Jeane_JKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@jeanejkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.jeane/"
+               }
+          },
+          {
+               "id": 41,
+               "full_name": "Michelle Alexandra",
+               "nama_panggilan": "Michie",
+               "tanggal_lahir": "22 April 2009",
+               "member": "trainee",
+               "jiko": "Always your number 1, till infinity & beyond",
+               "img_thm": "img/Trainee_Michie_thumnail.jpeg",
+               "img": "img/full-size/Trainee_Michie.jpeg",
+               "media_sosial": {
+                    "twitter": "https://x.com/Michie_JKT48?s=20",
+                    "tiktok": "https://www.tiktok.com/@michiejkt48/",
+                    "instagram": "https://www.instagram.com/jkt48.michie_/"
+               }
+          }
+     ]
+}
