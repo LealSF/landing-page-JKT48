@@ -43,9 +43,11 @@ function show_detail_anggota(data) {
                          </div>
                          <div class="member-data social-media">
                               <h3>Media Sosial</h3>
-                              <a href="${data.media_sosial.instagram}" target="_blank"><img src="icons/instagram.svg" alt="Instagram" /></a>
-                              <a href="${data.media_sosial.tiktok}" target="_blank"><img src="icons/tiktok.svg" alt="Tiktok" /></a>
-                              <a href="${data.media_sosial.twitter}" target="_blank"><img src="icons/twitter.svg" alt="Twitter" /></a>
+                              <div class="link">
+                                   <a href="${data.media_sosial.instagram}" target="_blank"><img src="icons/instagram.svg" alt="Instagram" /></a>
+                                   <a href="${data.media_sosial.tiktok}" target="_blank"><img src="icons/tiktok.svg" alt="Tiktok" /></a>
+                                   <a href="${data.media_sosial.twitter}" target="_blank"><img src="icons/twitter.svg" alt="Twitter" /></a>
+                              </div>
                          </div>
                     </div>
                </div>

@@ -20,11 +20,11 @@ html {
      align-items: center;
      padding: 1.4rem 7%;
      background-color: rgb(251, 161, 183);
-     border: 1 solid #fff0f5;
+     border-bottom: 5px solid #fff0f5;
+     position: fixed;
      top: 0;
-     left: 0;
      right: 0;
-     position: sticky;
+     left: 0;
 }
 
 .navbar a {
@@ -55,7 +55,7 @@ html {
 
 .hero {
      height: 100%;
-     padding-top: 3rem;
+     padding-top: 6.5rem;
      text-align: center;
 }
 
@@ -71,6 +71,10 @@ main {
 
 aside {
      flex: 1;
+}
+
+.profile-group figure {
+     text-align: center;
 }
 
 .profile-group img {
@@ -96,6 +100,10 @@ aside {
      text-align: center;
 }
 
+#profile > p {
+     margin-top: 1rem;
+}
+
 #profile .img-profile .feature-img {
      width: 100%;
      max-width: 600px;
@@ -106,7 +114,7 @@ aside {
 .card {
      box-shadow: 0 0 9px 0 rgba(255, 204, 179);
      border-radius: 5px;
-     padding: 30px;
+     padding: 10px;
 }
 
 #profile h2,
@@ -139,6 +147,7 @@ aside {
 .card-member .img-member img {
      height: 15rem;
      width: 15rem;
+     text-align: center;
 }
 
 .card-member .content-member {
@@ -244,6 +253,18 @@ footer .credit a {
           align-self: center;
      }
 
+     .hero img {
+          width: 80vh;
+     }
+
+     #profile > h2 {
+          font-size: 3rem;
+     }
+
+     #profile > p {
+          font-size: 1.3rem;
+     }
+
      .card {
           padding: 20px;
           width: fit-content;
@@ -292,7 +313,19 @@ footer .credit a {
 /* tablet */
 @media only screen and (max-width: 992px) {
      body {
-          font-size: 60%;
+          font-size: 70%;
+     }
+
+     .hero img {
+          width: 60vh;
+     }
+
+     #profile > h2 {
+          font-size: 2.5rem;
+     }
+
+     #profile > p {
+          font-size: 1.1rem;
      }
 
      .card-member .img-member img {
@@ -329,11 +362,19 @@ footer .credit a {
 /* tablet */
 @media only screen and (max-width: 768px) {
      body {
-          font-size: 50%;
+          font-size: 60%;
      }
 
      .hero img {
-          width: 70vh;
+          width: 40vh;
+     }
+
+     #profile > h2 {
+          font-size: 2rem;
+     }
+
+     #profile > p {
+          font-size: 1rem;
      }
 
      .card-member .img-member img {
@@ -366,41 +407,83 @@ footer .credit a {
 /* smartphone */
 @media only screen and (max-width: 576px) {
      body {
-          font-size: 40%;
+          font-size: 50%;
      }
 
      .navbar {
           display: block;
           text-align: center;
+          padding: 0.7rem 7%;
      }
 
      .navbar .navbar-logo {
           margin: 0 auto;
+          font-size: 1.3rem;
+     }
+
+     .navbar .navbar-nav > a {
+          font-size: 0.7rem;
+     }
+
+     .hero img {
+          width: 40vh;
+     }
+
+     #profile > h2 {
+          font-size: 2rem;
+     }
+
+     #profile > p {
+          font-size: 0.9rem;
      }
 
      .profile-group img {
           width: 70px;
      }
 
+     .card-member .img-member {
+          padding: 0.1rem 0;
+     }
+
      .card-member .img-member img {
-          width: 3rem;
-          height: 3rem;
+          width: 4rem;
+          height: 4rem;
+     }
+
+     .modal .modal-container {
+          transform: translate(-50%, -60%);
+          padding: 0 0.8rem 0.4rem 0.8rem;
+     }
+
+     .modal .modal-container > a {
+          top: 3rem;
+          right: 1rem;
+     }
+
+     .modal .modal-container .modal-content {
+          flex-wrap: wrap;
      }
 
      .modal .member-content .member-data h3 {
           margin: 1rem 0;
-          font-size: 0.6rem;
+          font-size: 0.8rem;
      }
 
      .modal .member-content p {
-          font-size: 0.4rem;
+          font-size: 0.6rem;
      }
 
      .modal .modal-container .modal-content img {
-          height: 10rem;
+          height: 11rem;
+          text-align: center;
      }
 
-     .modal .modal-content .social-media img {
+     .modal .modal-content .social-media .link {
+          text-align: center;
+     }
+
+     .modal .modal-content .social-media .link img {
           height: 1rem;
+          text-align: center;
      }
 }
